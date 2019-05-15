@@ -1,0 +1,12 @@
+Git status
+git log
+git add *
+git commit -m "Comment" 
+git remote add origin git@github.com:Sharath221/Regular_Experssions.git
+git push -u origin master
+git branch
+git branch nameoftogenerate
+git checkout nameoftogenerate
+git checkout -b nameoftogenerate nameofthegenerater
+git checkout -d nameoftheoriginto_delete
+
